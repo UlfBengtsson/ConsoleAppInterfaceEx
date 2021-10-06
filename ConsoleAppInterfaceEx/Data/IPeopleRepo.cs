@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ConsoleAppInterfaceEx.Data
 {
-    public interface IPeopeRepo
+    public interface IPeopleRepo
     {
         //C
         Person Create(Person person);
